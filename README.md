@@ -12,13 +12,13 @@ Everyone can host a basic website on AWS that's old news what actually something
 
 ## How I build it?
 
-For tech stack I'll be goind deep with AWS,
-
+**The AWS resources in that I'll deep dive:**
 1. `AWS S3`: That's the foundation for our starage.
 2. `CloudFront`: We're going to plug in cloudfront to blast the content worldwide very fast.
 3. `Certificate Manager`: Security wise AWS certificate manager will handle **https**.
 4. `WAF`: We're throwing **WAF(Web Application Firewall)**
 5. `CloudWatch`: Cloudwatch keeps an eye on everthing with custom dashboards and alerts.
+6. `AWS Route 53`: For custom domain.
 
 ## The Business Impact It Will Create!!!
 
