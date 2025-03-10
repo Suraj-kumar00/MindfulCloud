@@ -1,6 +1,8 @@
-# A smart static website
+<h1 align="center">
+  <strong>MindfulCloud</strong>
+</h1>
 
-![Image](./Assets/image.png)
+![Image](./Assets/MindfulCloud-home-image.png)
 
 ---
 
