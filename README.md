@@ -10,6 +10,8 @@
 
 Everyone can host a basic website on AWS that's old news what actually something `secure`,`fast` and `smart` with resource I have. You can't just dump an HTML file somewhere, becuase there are hacker that can come form anywhere, users who'll just bounce if your site takes more than a second load and budgets which needs to be managed that the real problem we're solving here.
 
+https://github.com/user-attachments/assets/0169109a-c176-454f-b360-c3a983957626
+
 ## How I build it?
 
 **The AWS resources in that I'll deep dive:**
