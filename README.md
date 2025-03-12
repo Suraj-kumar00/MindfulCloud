@@ -40,7 +40,7 @@ This architecture is designed to **host a secure, scalable, and high-performance
 
 ## **1️⃣ User Request (Entry Point)**
 
-🔹 A **user** initiates a request by visiting [URL Soon...](www.example.com).  
+🔹 A **user** initiates a request by visiting [https://mindfulcloud.devsuraj.me](https://mindfulcloud.devsuraj.me/).  
 🔹 The request is sent to **Amazon Route 53**, which is the **DNS service** responsible for resolving domain names into IP addresses.
 
 ## **2️⃣ Route 53 → CloudFront**
