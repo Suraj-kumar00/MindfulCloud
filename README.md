@@ -79,5 +79,6 @@ This architecture is designed to **host a secure, scalable, and high-performance
 ✅ **Real-time Monitoring:** CloudWatch provides insights into performance and security.
 
 ## Licence
+Check out the [lincence](https://github.com/Suraj-kumar00/MindfulCloud/blob/main/LICENSE)
 
 ## Give the repo star 🤩
