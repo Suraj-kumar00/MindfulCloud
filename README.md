@@ -13,6 +13,7 @@ Everyone can host a basic website on AWS that's old news what actually something
 ## How I build it?
 
 **The AWS resources in that I'll deep dive:**
+
 1. `AWS S3`: That's the foundation for our starage.
 2. `CloudFront`: We're going to plug in cloudfront to blast the content worldwide very fast.
 3. `Certificate Manager`: Security wise AWS certificate manager will handle **https**.
